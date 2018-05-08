@@ -1,0 +1,41 @@
+*** Xone HTML/CSS Changelog ***
+
+March 10 2014 - Version 1.2
+
+	* NEW: Pricing Tables
+	* NEW: Blog Masonry
+	* FIX: minor Bugfixes
+
+	Edited files:
+	- index-headeroverlay.html (blog masonry)
+	- elements.html (pricing,buttons)
+	- style.css (pricing,buttons,blog masonry)
+	- mqueries.css (pricing)
+	- dark.css (pricing)
+	- script.js (masonry for blog)
+
+
+February 20 2014 - Version 1.1
+	
+	* NEW: Carousel for Portfolio
+	* NEW: Background sound for videos
+	* FIX: Flexslider bug on portfolio load
+	* FIX: Responsive menu optimization -> bug when #service
+	* FIX: BG video for big screens
+	
+
+	Edited files:
+	- xone-loader.js
+	- bgvideo.min.js
+	- script.js	(responsive menu, bgvideo, added->carousel initialiser)
+	- style.css	(#menu-responsive, added->carousel style)
+
+	New files:
+	- owl.carousel.min.js
+	- owl.carousel.css
+
+
+
+January 31 2014 - Version 1.0
+	* First Release
+
