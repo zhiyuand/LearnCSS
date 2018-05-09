@@ -459,7 +459,7 @@ aside {
 3. HEADER
 ------------------------------------------------*/
 header {
-	background: #3c857b;
+	background:#999999;
 	box-shadow:  rgba(0,0,0, 0.2) 0px 0px 3px;
 	-moz-box-shadow:  rgba(0,0,0, 0.2) 0px 0px 3px;
 	-webkit-box-shadow:  rgba(0,0,0, 0.2) 0px 0px 3px;
@@ -634,11 +634,11 @@ nav#main-nav > ul > li > a  {
 		
 nav#main-nav > ul > li:hover > a {
 	z-index: 48;
-	color: #4da5f5;
+	color: #f80101f3;
 	}
 	
 nav#main-nav > ul > li.current-menu-item > a, nav#main-nav > ul > li.current-menu-ancestor > a {
-	color: #4da5f5;
+	color: #f80101f3;
 	}
 
 /* hover/active nav state for overlayed header*/	
@@ -729,7 +729,7 @@ nav#menu-controls > ul > li a  {
 	}
 	
 nav#menu-controls > ul > li.current-menu-item > a {
-	border-color: #4da5f5;
+	border-color: #f80101f3;
 	}
 	
 nav#menu-controls > ul > li.current-menu-item > a span.c-dot {
@@ -750,7 +750,7 @@ nav#menu-controls > ul > li a span.c-dot  {
 	}
 	
 nav#menu-controls > ul > li a:hover span.c-dot  {
-	background: #4da5f5;
+	background: #f80101f3;
 	}
 	
 nav#menu-controls > ul > li a span.c-name  {
@@ -887,7 +887,7 @@ section { }
 .no-padding .section-inner {	padding-top: 0px; }
 
 .horizontalsection .horizontalinner {
-	padding: 100px 0;
+	padding: 250px 0;
 	}
 
 
@@ -1100,7 +1100,7 @@ section { }
 	}
 	
 .filter li a.active, .filter li a:hover {
-	border-color: #4da5f5;
+	border-color: #f80101f3;
 	}
 	
 
@@ -1154,7 +1154,7 @@ section { }
 .blog-headline .post-name a {
 	color: #262626;
 	}
-.blog-headline .post-name a:hover {	color: #4da5f5; }
+.blog-headline .post-name a:hover {	color: #f80101f3; }
 
 .blog-headline .post-meta {
 	color: #999999;
@@ -1186,7 +1186,7 @@ section { }
 	}
 	
 .readmore-button:hover {
-	border-color: #4da5f5;
+	border-color: #f80101f3;
 	}
 	
 	
@@ -1435,14 +1435,14 @@ a.sr-button1:hover { border-color: #262626; background-color: #262626; color: #f
 a.sr-button2 {	border: 2px solid #262626; color: #262626;	background: transparent; }
 a.sr-button2:hover { background-color: #1a1a1a; color: #ffffff; }
 
-a.sr-button3 { border: 2px solid #4da5f5; color: #4da5f5;	background: transparent; }
-a.sr-button3:hover { background: #4da5f5; color: #ffffff; }
+a.sr-button3 { border: 2px solid #f80101f3; color: #f80101f3;	background: transparent; }
+a.sr-button3:hover { background: #f80101f3; color: #ffffff; }
 
 a.sr-button4 {	border: 2px solid #ffffff; color: #ffffff;	background: transparent; }
 a.sr-button4:hover { background-color: #ffffff; color: #262626; }
 
-a.sr-button5 {	border: 2px solid #4da5f5; color: #ffffff;	background: #4da5f5; }
-a.sr-button5:hover { background-color: #4da5f5; color: #ffffff; }
+a.sr-button5 {	border: 2px solid #f80101f3; color: #ffffff;	background: #f80101f3; }
+a.sr-button5:hover { background-color: #f80101f3; color: #ffffff; }
 
 a.sr-button6 {	border: 2px solid #262626; color: #ffffff;	background: #262626; }
 a.sr-button6:hover { background-color: #262626; color: #ffffff; }
@@ -1561,7 +1561,7 @@ a.sr-buttonicon.small-iconbutton {
 	}
 
 .iconbox .fa {
-	color: #4da5f5;
+	color: #f80101f3;
 	}
 
 .iconbox-content {
@@ -1651,7 +1651,7 @@ a.sr-buttonicon.small-iconbutton {
 	.text-light .tabs ul.tab-nav li a { color: #ffffff; }
 	
 .tabs ul.tab-nav li a:hover, .tabs ul.tab-nav li a.active {
-	border-color: #4da5f5;
+	border-color: #f80101f3;
 	}
 	
 .tabs .tab-container {
@@ -1706,7 +1706,7 @@ a.sr-buttonicon.small-iconbutton {
 	}
 	
 .toggle-item .toggle-title:hover .toggle-icon .fa, .toggle-item .toggle-active .toggle-icon .fa {
-	color: #4da5f5 !important;
+	color: #f80101f3 !important;
 	}
 	
 .toggle-item .toggle-inner {
@@ -1763,7 +1763,7 @@ a.sr-buttonicon.small-iconbutton {
 	}
 	
 .skill .skill-bar .skill-active {
-	background: #4da5f5;
+	background: #f80101f3;
 	height: 100%;
 	position: relative;
 	border-radius: 2px;
@@ -1851,7 +1851,7 @@ a.sr-buttonicon.small-iconbutton {
 	color: #262626;
 	}
 	.text-light .price { color: #ffffff; }
-	.pricing-accent .price { color: #4da5f5; }
+	.pricing-accent .price { color: #f80101f3; }
 	
 .price-amount {
 	display: block;
@@ -1910,7 +1910,7 @@ a.sr-buttonicon.small-iconbutton {
 	}
 
 .widget ul li a:hover {
-	color: #4da5f5;
+	color: #f80101f3;
 	}
 
 
@@ -2210,11 +2210,11 @@ a.sr-buttonicon.small-iconbutton {
 	
 /*	parallax bg sections
 ------------------------------------------------*/
-#facts.parallax-section { background:url(../uploads/parallax-bg1.jpg) center center repeat; background-size: cover; } /* index */
-#testimonials.parallax-section { background:url(../uploads/parallax-bg2.jpg) center center repeat; background-size: cover; } /* index */
-#passionate.parallax-section { background:url(../uploads/parallax-bg3.jpg) center center repeat; background-size: cover; } /* index */
-#purchase.parallax-section { background:url(../uploads/parallax-bg3.jpg) center center repeat; background-size: cover; } /* index-headeroverlay */
-#quote.parallax-section { background:url(../uploads/parallax-bg3.jpg) center center repeat; background-size: cover; } /* index-headeroverlay*/
+#facts.parallax-section { background:url(../uploads/Fond-Site.jpg) center center repeat; background-size: cover; } /* index */
+#testimonials.parallax-section { background:url(../uploads/Fond-Site.jpg) center center repeat; background-size: cover; } /* index */
+#passionate.parallax-section { background:url(../uploads/Fond-Site.jpg) center center repeat; background-size: cover; } /* index */
+#purchase.parallax-section { background:url(../uploads/Fond-Site.jpg) center center repeat; background-size: cover; } /* index-headeroverlay */
+#quote.parallax-section { background:url(../uploads/Fond-Site.jpg) center center repeat; background-size: cover; } /* index-headeroverlay*/
 
 /*	dark bg sections
 ------------------------------------------------*/
