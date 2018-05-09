@@ -612,7 +612,7 @@ nav#main-nav > ul > li > a  {
 	display: block;
 	font-family: 'Open Sans'; 
 	font-weight: 600;
-	font-size: 12px;
+	font-size: 1em;
 	line-height: 60px;					/* depending on the logo height */
 	color: #262626;
 	text-decoration: none;
@@ -1010,7 +1010,7 @@ section { }
 10. PORTFOLIO AJAX
 ------------------------------------------------*/
 .ajax-section {
-	padding-bottom: 100px;
+	/* padding-bottom: 100px; */
 	position: relative;
 	display: none;
 	}
@@ -2212,8 +2212,8 @@ a.sr-buttonicon.small-iconbutton {
 ------------------------------------------------*/
 #facts.parallax-section { background:url(../uploads/Fond-Site.jpg) center center repeat; background-size: cover; } /* index */
 #testimonials.parallax-section { background:url(../uploads/Fond-Site.jpg) center center repeat; background-size: cover; } /* index */
-#passionate.parallax-section { background:url(../uploads/Fond-Site.jpg) center center repeat; background-size: cover; } /* index */
-#purchase.parallax-section { background:url(../uploads/Fond-Site.jpg) center center repeat; background-size: cover; } /* index-headeroverlay */
+#passionate.parallax-section { background:url(../uploads/Fond-Site3.jpg) center center repeat; background-size: cover; } /* index */
+#purchase.parallax-section { background:url(../uploads/Fond-Site4.jpg) center center repeat; background-size: cover; } /* index-headeroverlay */
 #quote.parallax-section { background:url(../uploads/Fond-Site.jpg) center center repeat; background-size: cover; } /* index-headeroverlay*/
 
 /*	dark bg sections
